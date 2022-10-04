@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1">
+        <firstName>Pepe</firstName>
+        <lastName>Perez</lastName>
+        <age>28</age>
+        <gender>Male</gender>
+    </User>
+    <User id="2">
+        <firstName>John</firstName>
+        <lastName>Cena</lastName>
+        <age>45</age>
+        <gender>Male</gender>
+    </User>
+    <User id="3">
+        <firstName>Tom</firstName>
+        <lastName>Cruise</lastName>
+        <age>40</age>
+        <gender>Male</gender>
+    </User>
+</Users>

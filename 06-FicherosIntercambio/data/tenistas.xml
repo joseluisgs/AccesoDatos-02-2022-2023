@@ -1,0 +1,7 @@
+<ArrayList>
+    <TenistaDto uuid="1e3bdd7d-c6d5-4888-919e-273c18dd45a9" nombre="Rafael Nadal" ranking="2" fechaNacimiento="1985-06-04" añoProfesional="2005" altura="185" peso="81.0" ganancias="1.50003E7" manoDominante="IZQUIERDA" tipoReves="DOS MANOS" puntos="6789" pais="España"/>
+    <TenistaDto uuid="db940dfc-038a-42ef-b8fc-1691a3853a25" nombre="Roger Federer" ranking="3" fechaNacimiento="1981-01-01" añoProfesional="2000" altura="188" peso="83.0" ganancias="2.0040608E7" manoDominante="DERECHA" tipoReves="UNA MANO" puntos="3789" pais="Suiza"/>
+    <TenistaDto uuid="855eb3f7-21cf-438e-9914-54d7fc097457" nombre="Novak Djokovic" ranking="4" fechaNacimiento="1986-05-05" añoProfesional="2004" altura="189" peso="81.6" ganancias="1.0020054E7" manoDominante="DERECHA" tipoReves="DOS MANOS" puntos="1970" pais="Serbia"/>
+    <TenistaDto uuid="e6cca246-6595-46ee-89da-637780557b78" nombre="Dominic Thiem" ranking="5" fechaNacimiento="1985-06-04" añoProfesional="2015" altura="188" peso="82.5" ganancias="10304.25" manoDominante="DERECHA" tipoReves="UNA MANO" puntos="1234" pais="Austria"/>
+    <TenistaDto uuid="29688284-79b8-4ae3-8a7a-cdef4f61cbbd" nombre="Carlos Alcaraz" ranking="1" fechaNacimiento="2003-05-05" añoProfesional="2019" altura="185" peso="80.75" ganancias="5005555.5" manoDominante="DERECHA" tipoReves="DOS MANOS" puntos="6880" pais="España"/>
+</ArrayList>

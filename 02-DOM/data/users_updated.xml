@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    <User id="1">
+        <firstName>PEPE</firstName>
+        <lastName>Perez</lastName>
+        <age>24</age>
+        <salary>1000</salary>
+    </User>
+    <User id="2">
+        <firstName>ANA</firstName>
+        <lastName>Lopez</lastName>
+        <age>28</age>
+        <salary>1000</salary>
+    </User>
+    <User id="3">
+        <firstName>SON GOKU</firstName>
+        <lastName>Saiyan</lastName>
+        <age>42</age>
+        <salary>1000</salary>
+    </User>
+</Users>

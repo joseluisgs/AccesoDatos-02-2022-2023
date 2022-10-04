@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="es.joseluisgs.dam.jaxb.model">
+    <bookList>
+        <book>
+            <author>Kathy Sierra</author>
+            <title>Head First Java, 2nd Edition</title>
+            <publisher>amazon</publisher>
+            <isbn>978-0596009205</isbn>
+        </book>
+    </bookList>
+    <location>Leganés</location>
+    <name>IES Luis Vives Bookstore</name>
+</ns2:bookstore>

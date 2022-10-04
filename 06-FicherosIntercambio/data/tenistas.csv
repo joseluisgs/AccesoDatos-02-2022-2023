@@ -1,0 +1,6 @@
+uuid;nombre;ranking;fechaNacimiento;añoProfesional;altura;peso;ganancias;manoDominante;tipoReves;puntos;pais
+1e3bdd7d-c6d5-4888-919e-273c18dd45a9;Rafael Nadal;2;1985-06-04;2005;185;81.0;1.50003E7;IZQUIERDA;DOS MANOS;6789;España
+db940dfc-038a-42ef-b8fc-1691a3853a25;Roger Federer;3;1981-01-01;2000;188;83.0;2.0040608E7;DERECHA;UNA MANO;3789;Suiza
+855eb3f7-21cf-438e-9914-54d7fc097457;Novak Djokovic;4;1986-05-05;2004;189;81.6;1.0020054E7;DERECHA;DOS MANOS;1970;Serbia
+e6cca246-6595-46ee-89da-637780557b78;Dominic Thiem;5;1985-06-04;2015;188;82.5;10304.25;DERECHA;UNA MANO;1234;Austria
+29688284-79b8-4ae3-8a7a-cdef4f61cbbd;Carlos Alcaraz;1;2003-05-05;2019;185;80.75;5005555.5;DERECHA;DOS MANOS;6880;España
